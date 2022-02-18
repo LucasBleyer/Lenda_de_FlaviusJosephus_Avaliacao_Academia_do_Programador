@@ -18,10 +18,11 @@ próximo homem que será morto.
 
 Segue um exemplo com 5 homens e um salto = 2.
 
-
+![image](https://user-images.githubusercontent.com/91075515/154744711-3d85091e-bc52-4884-8cfe-97f891d976d3.png)
 
 Neste exemplo o elemento que restará após as eliminações é 3.
 Saída
 Para cada caso de teste de entrada será apresentada uma linha de saída no
 seguinte formato: Caso n: m tendo sempre um espaço antes do n e do m.
 
+![image](https://user-images.githubusercontent.com/91075515/154744808-740d19b0-2cb1-4cd5-b38e-dc2427617761.png)
