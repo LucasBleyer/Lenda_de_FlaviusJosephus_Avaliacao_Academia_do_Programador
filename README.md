@@ -1,4 +1,4 @@
-# Lenda de FlaviusJosephus Avaliação Academia do Programador
+# Lenda de Flavius Josephus Avaliação Academia do Programador
 Projeto A Lenda de Flavius Josephus - Avaliação 1 Academia do Programador
 
 O problema de Josephus é assim conhecido por causa da lenda de Flavius Josephus,
